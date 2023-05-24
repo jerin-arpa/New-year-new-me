@@ -1,0 +1,195 @@
+/* part-1 */
+.heading {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.banner1 {
+    text-align: end;
+    justify-content: end;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.first-banner {
+    margin-right: 100px;
+    margin-left: 700px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+.paragraph1 {
+    padding-left: 100px;
+    font-weight: 100;
+}
+
+.button {
+    width: 150px;
+    height: 55px;
+    color: white;
+    background-color: rgb(253, 91, 32);
+}
+
+
+/* part-2 */
+.flex {
+    display: flex;
+}
+
+.part2 {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 170px;
+    margin-right: 100px;
+}
+
+.image1 {
+    height: 630px;
+}
+
+.failures {
+    margin-left: 100px;
+    padding-top: 200px;
+}
+
+.heading1 {
+    font-weight: 900;
+}
+
+.paragraph2 {
+    font-weight: 100;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.list li {
+    font-weight: 100;
+    padding-top: 5px;
+}
+
+
+/* My-Plans */
+.heading2 {
+    text-align: center;
+    justify-content: center;
+}
+
+.my-plan {
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 100px;
+}
+
+.space {
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.plans {
+    margin-right: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+.planss {
+    text-align: center;
+    justify-content: center;
+}
+
+
+/* part-3 */
+.part3 {
+    background-image: url('images/watch.png');
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 70px;
+}
+
+.heading3 {
+    font-weight: 700;
+    color: white;
+    padding-right: 400px;
+}
+
+.button1 {
+    width: 150px;
+    height: 55px;
+    font-weight: 600;
+    color: rgb(253, 91, 32);
+    background-color: white;
+}
+
+/* part-4 */
+.part4 {
+    background-color: black;
+    color: white;
+    padding: 100px;
+}
+
+.feature {
+    margin-left: 100px;
+    margin-right: 150px;
+}
+
+.feature-info {
+    margin-top: 30px;
+    font-weight: 50;
+}
+
+.subscribe {
+    margin-right: 100px;
+}
+
+.email {
+    height: 55px;
+    width: 300px;
+    margin-top: 12px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 2px solid white;
+    background-color: black;
+}
+
+.icons {
+    margin-top: 20px;
+}
+
+.image2 {
+    margin-left: 20px;
+}
+
+/* Banner-3 */
+/* part-1 */
+.headings {
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.paragraphs1 {
+    padding-left: 100px;
+    font-weight: 100;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.buttonss {
+    width: 150px;
+    height: 55px;
+    color: blue;
+    background-color: white;
+}
+
+/*  Part-4 */
+.buttons1 {
+    width: 150px;
+    height: 55px;
+    font-weight: 600;
+    color: white;
+    background-color: blue;
+}
